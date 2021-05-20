@@ -1,9 +1,8 @@
-### Hi there 👋
+### Hi there I'm [feirou](https://github.com/cwcw2424).👋
 
-<!--
-**cwcw2424/cwcw2424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I come from China. I like open source and all interesting things and want to try to do it.
 
-Here are some ideas to get you started:
+I want to be an interesting person and create something that can be remembered by others.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+- 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=cwcw2424&show_icons=true&icon_color=0078e7&title_color=0078e7">
